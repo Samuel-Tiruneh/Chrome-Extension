@@ -1,0 +1,28 @@
+body{
+    padding-right: 10px;
+ }
+#input-sr{
+   width: 100%;
+   margin-bottom: 5px;
+   height: 30px;
+   border: 1px solid green;
+ 
+}
+#button-sr{
+    background: green;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    height: 30px;
+}
+ul{
+    padding-left: 0;
+}
+li{
+    
+    padding-bottom: 5px;
+    list-style: none;
+}
+a{
+    color: green;
+}
